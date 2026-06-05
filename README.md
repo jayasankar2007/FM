@@ -26,6 +26,7 @@ m= f / fm
 FREQUENCY MODULATION GENERATION:
 The circuits used to generate a frequency modulation must vary the frequency of a high frequency signal (carrier) as function of the amplitude of a low frequency signal (modulating signal). In practice there are two main methods used to generate FM.
 Algorithm
+
 1.	Define Parameters:
 •	Fs: Sampling frequency.
 •	T: Duration of the signal.
